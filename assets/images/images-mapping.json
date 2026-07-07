@@ -1,10 +1,13 @@
 {
   "1": { "imagePath": "assets/images/page-1.png" },
-  "5": { "imagePath": "assets/images/page-5.png" },
-  "6": { "imagePath": "assets/images/page-6.png" },
+  "4": { "imagePath": "assets/images/page-4.png" },
   "7": { "imagePath": "assets/images/page-7.png" },
   "8": { "imagePath": "assets/images/page-8.png" },
   "9": { "imagePath": "assets/images/page-9.png" },
   "10": { "imagePath": "assets/images/page-10.png" },
-  "11": { "imagePath": "assets/images/page-11.png" }
+  "11": { "imagePath": "assets/images/page-11.png" },
+  "12": { "imagePath": "assets/images/page-12.png" },
+  "13": { "imagePath": "assets/images/page-13.png" },
+  "14": { "imagePath": "assets/images/page-14.png" },
+  "16": { "imagePath": "assets/images/page-16.png" }
 }
